@@ -191,6 +191,7 @@ an example:
  - [cbbeard](https://github.com/cbbeard)
  - [guneetsk99](https://github.com/guneetsk99)
  - [nathias](https://github.com/nath1as)
+ - [derpyhsi](https://github.com/derpyhsi)
  - [Blueskyes](https://github.com/Blueskyes)
  - [qToastii](https://github.com/qToatsii)
  - [stefanoschrs](https://github.com/stefanoschrs)
